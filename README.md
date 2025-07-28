@@ -13,14 +13,15 @@ This is my first Streamlit project built during my internship at **LinuxWorld Pv
 - Python
 - SpeechRecognition
 - pyttsx3 (text-to-speech)
+## 🤝 Credits
+
+- 🔧 Code by Arbaz Khan
+- 🧠 Guidance: Vimal Daga Sir
+- 👥 Team: Lovely, Badre Kamil, Natasha
 
 ## 🚀 Run it locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-## 🤝 Credits
 
-- 🔧 Code by Arbaz Khan
-- 🧠 Guidance: Vimal Daga Sir
-- 👥 Team: Lovely, Badre Kamil, Natasha
