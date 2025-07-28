@@ -18,3 +18,9 @@ This is my first Streamlit project built during my internship at **LinuxWorld Pv
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## 🤝 Credits
+
+- 🔧 Code by Arbaz Khan
+- 🧠 Guidance: Vimal Daga Sir
+- 👥 Team: Lovely, Badre Kamil, Natasha
